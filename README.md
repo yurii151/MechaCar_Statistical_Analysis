@@ -54,4 +54,22 @@ T-testing over the entire population of just lot3, the results are below:
 
 The results of the t-test show that mean of the sample is 1496.14. The p-value = 0.04168, which is below the threshold of 0.05, so that indicates that the mean of Lot3 is NOT statisctially similar to the population mean (1500). Clearly, something has gone wrong in Lot3 and as stated before, will need to be investigated to see what went wrong.
 
+## Study Design: MechaCar vs Competition
+
+In order to design a study comparing the MechaCar vs Competition, we would first need to decided what factors that we deem important to compare:
+
+Some of the metrics I would look into:
+
+Cost: How does our car compare to similarly priced vechiles.
+
+Fuel efficentiey: Does the mecha car have better or worse feul efficiency compared to competitors. Can be thought of as how many miles between fillups does the car require. 
+
+Maitnence cost: How much money does an average driver spend on reparing the car. Can track how much maitanence is required on the car in the first 3 years.
+
+With these three metrics, I believe we can begin to compare the MechaCar with its competitors. 
+
+I would complete the study under the null hypothesis that the mecha car is properly priced vs its competitors. 
+
+Once we have the data for the metrics that we are looking for, I would do a similar process of linear regressions as we just completed to see what factors are related to price the most, and then I would figure out how our Mecha Car sample compares to our expecation. 
+
 
